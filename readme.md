@@ -6,4 +6,4 @@
 
 ### Weekly Recap
 
-This week we covered promises, async / await, and making basic web servers.
+This week we covered promises, async, await, and making basic web servers.
